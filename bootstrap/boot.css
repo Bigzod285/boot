@@ -1,0 +1,51 @@
+.myimg2 {
+  background-image: url("../images2/HeroBackground.png");
+  background-position: center top;
+  position: relative;
+  max-width: 1826px;
+  height: 1229px;
+  padding: 64px;
+  padding-right: 164px;
+  padding-left: 164px;
+  padding-bottom: 244px;
+  background-size: cover;
+  background-repeat: initial;
+  margin: auto;
+  border-radius: 40px;
+}
+* {
+  box-sizing: border-box;
+}
+.max {
+  max-width: 1470px;
+  max-height: 122px;
+  background-color: transparent;
+}
+.flex1 {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.lightsmall {
+  display: none;
+}
+.urls {
+  display: flex;
+  justify-content: space-between;
+  width: 480px;
+  margin-left: 0;
+  text-decoration: none;
+  list-style-type: none;
+  color: #ffd89e;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+}
+.light{
+
+}
+.triple{
+display: none;
+}

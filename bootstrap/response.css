@@ -1,0 +1,19 @@
+@media (max-width:568px){
+    .light{
+        display: none;
+    }
+    .lightsmall{
+        display: block;
+    }
+    .urls{
+        display: none;
+    }
+    .triple{
+        display: block;
+    }
+    .myimg2{
+        padding-left: 47px;
+        padding-right: 47px;
+        padding-bottom: 124px;
+    }
+}
